@@ -1,0 +1,247 @@
+{
+  "heading": "G6_Reading Financial and Balancing Financial Record",
+  "topics": [
+    {
+      "heading": "Reading Financial and Balancing Financial Record",
+      "questions": [
+
+  
+  {
+    "questionNo": 1,
+    "question": ["Look at the <b>financial record headings</b> shown above. Whenever an amount of money is recorded in the <b>\"Received\"</b> column, how must you update the <b>\"Available Funds\"</b>?"],
+    "options": [
+      "Subtract the amount from the Available Funds.",
+      "Add the amount to the Available Funds.",
+      "Divide the Available Funds by the amount.",
+      "Leave the Available Funds unchanged."
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/19.png"
+  },
+  {
+    "questionNo": 2,
+    "question": ["Look at the <b>financial record headings</b> shown above. Whenever a payment is recorded in the <b>\"Expenses\"</b> column, how must you update the <b>\"Available Funds\"</b>?"],
+    "options": [
+      "Subtract the amount from the Available Funds.",
+      "Add the amount to the Available Funds.",
+      "Multiply the Available Funds by the amount.",
+      "Double the previous Available Funds."
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/20.png"
+  },
+  {
+    "questionNo": 3,
+    "question": ["When is a personal budget described as <b>\"balanced\"</b>?"],
+    "options": [
+      "When Total Expenses are higher than Total Income.",
+      "When Total Income is always more than $200.",
+      "When Total Income equals Total Expenses.",
+      "When every expense costs the exact same amount."
+    ],
+    "image": "./assests/images/question/21.png",
+    "answer": 2
+  },
+  {
+    "questionNo": 4,
+    "question": ["Look at the <b>monthly budget summary</b> shown above. Which statement accurately describes this budget?"],
+    "options": [
+      "The budget is balanced because both totals are above $150.",
+      "The budget has $35 of spare money left over to spend.",
+      "The budget is not balanced because Expenses are $35 more than Income.",
+      "The budget can be balanced by spending an extra $35."
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/22.png"
+  },
+  {
+    "questionNo": 5,
+    "question": ["Look at <b>Ella's financial record</b> shown above. What were Ella's <b>Available Funds</b> at the end of <b>11 January</b>?"],
+    "options": ["$175.80", "$189.50", "$203.80", "$28.00"],
+    "answer": 2,
+    "image": "./assests/images/question/23.png"
+  },
+  {
+    "questionNo": 6,
+    "question": ["Look at <b>Owen's financial record</b> shown above. How much money did Owen <b>receive</b> on <b>10 July</b>?"],
+    "options": ["$8.50", "$55.00", "$16.10", "$282.10"],
+    "answer": 1,
+    "image": "./assests/images/question/24.png"
+  },
+  {
+    "questionNo": 7,
+    "question": ["Look at <b>Harper's financial record</b> shown above. How much <b>more</b> money did Harper spend on <b>3 May</b> than on <b>13 May</b>?"],
+    "options": ["$23.25", "$24.25", "$24.75", "$41.25"],
+    "answer": 1,
+    "image": "./assests/images/question/25.png"
+  },
+  {
+    "questionNo": 8,
+    "question": ["<img src = './assests/images/question/26.png' width = '40%' ><br>Look at <b>Mason's financial record</b> shown above. Mason spent <b>$______</b> more on <b>4 September</b> than on <b>17 September</b>."],
+    "input": [""],
+    "answer": ["29.80"]
+  },
+  {
+    "questionNo": 9,
+    "question": ["Look at <b>Ava's financial record</b> shown above. What were Ava's <b>total expenses</b> in <b>June</b>?"],
+    "options": ["$24.25", "$31.00", "$35.00", "$66.00"],
+    "answer": 1,
+    "image": "./assests/images/question/27.png"
+  },
+  {
+    "questionNo": 10,
+    "question": ["<img src = './assests/images/question/28.png' width = '40%' ><br>Look at <b>Cooper's financial record</b> shown above. The <b>total amount of money Cooper received</b> in <b>October</b> was <b>$______</b>."],
+    "input": [""],
+    "answer": ["66"]
+  },
+  {
+    "questionNo": 11,
+    "question": ["On <b>19 November</b>, Sienna went to play mini golf and paid <b>$15.20</b>. Which pair of amounts correctly completes the <b>Expenses</b> and <b>Available Funds</b> boxes for 19 November?"],
+    "options": [
+      "Expenses: $15.20, Available Funds: $313.70",
+      "Expenses: $15.20, Available Funds: $283.30",
+      "Expenses: $15.20, Available Funds: $283.70",
+      "Expenses: $30.40, Available Funds: $268.10"
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/29.png"
+  },
+  {
+    "questionNo": 12,
+    "question": ["<img src = './assests/images/question/30.png' width = '40%' ><br>On <b>21 December</b>, Caleb paid <b>$16.25</b> for a leather cricket ball. After completing this row, his new <b>Available Funds</b> are <b>$______</b>."],
+    "input": [""],
+    "answer": ["215"]
+  },
+  {
+    "questionNo": 13,
+    "question": ["On <b>25 March</b>, Evie earned <b>$38.50</b> for helping with dog grooming. What are her new <b>Available Funds</b> on 25 March?"],
+    "options": ["$90.50", "$157.50", "$167.50", "$168.00"],
+    "answer": 2,
+    "image": "./assests/images/question/31.png"
+  },
+  {
+    "questionNo": 14,
+    "question": ["<img src = './assests/images/question/32.png' width = '40%' ><br>On <b>18 January</b>, Hunter received <b>$32.60</b> for edging his neighbour's lawn. His new <b>Available Funds</b> are <b>$______</b>."],
+    "input": [""],
+    "answer": ["190"]
+  },
+  {
+    "questionNo": 15,
+    "question": ["Look at <b>Layla's financial record</b> shown above. The <b>expense</b> amount for the sports shop on <b>8 April</b> is missing. How much did Layla spend at the sports shop?"],
+    "options": ["$17.50", "$18.50", "$19.50", "$28.50"],
+    "answer": 1,
+    "image": "./assests/images/question/33.png"
+  },
+  {
+    "questionNo": 16,
+    "question": ["<img src = './assests/images/question/34.png' width = '40%' ><br>Look at <b>Archie's financial record</b> shown above. The amount Archie <b>received</b> for tutoring on <b>16 May</b> is missing. How much money did Archie receive on 16 May? <b>$______</b>"],
+    "input": [""],
+    "answer": ["42"]
+  },
+  {
+    "questionNo": 17,
+    "question": ["Look at <b>Flynn's June budget</b> shown above. How much money can Flynn spend on a <b>tennis racquet</b> to keep his budget <b>balanced</b>?"],
+    "options": ["$80", "$85", "$90", "$105"],
+    "answer": 2,
+    "image": "./assests/images/question/35.png"
+  },
+  {
+    "questionNo": 18,
+    "question": ["<img src = './assests/images/question/36.png' width = '40%' ><br>Look at <b>Poppy's July budget</b> shown above. To keep her budget <b>balanced</b>, the <b>maximum</b> amount Poppy can spend on a <b>guitar case</b> is <b>$______</b>."],
+    "input": [""],
+    "answer": ["145"]
+  },
+  {
+    "questionNo": 19,
+    "question": ["Look at <b>Dylan's August budget</b> shown above. How much money must Dylan <b>earn</b> from helping his neighbour so that his budget is <b>balanced</b>?"],
+    "options": ["$50", "$60", "$65", "$125"],
+    "answer": 1,
+    "image": "./assests/images/question/37.png"
+  },
+  {
+    "questionNo": 20,
+    "question": ["<img src = './assests/images/question/38.png' width = '40%' ><br>Look at <b>Matilda's September budget</b> shown above. To <b>balance</b> her budget, Matilda needs to earn <b>$______</b> in <b>craft stall profit</b>."],
+    "input": [""],
+    "answer": ["75"]
+  },
+  {
+    "questionNo": 21,
+    "question": ["Look at <b>Jasper's October budget</b> shown above. His budget is currently <b>not balanced</b>. Which change will <b>balance</b> Jasper's budget?"],
+    "options": [
+      "Spend $10 less on the board game, and donate $20 more to wildlife charity.",
+      "Spend $20 less on the bowling alley trip, and earn an extra $10 by mowing lawns.",
+      "Spend only $30 on Dad's birthday gift, and earn $15 less from selling muffins.",
+      "Spend $40 less on the board game, and earn $20 less from mowing lawns."
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/39.png"
+  },
+  {
+    "questionNo": 22,
+    "question": ["Look at <b>Scarlett's November budget</b> shown above. Her budget is currently <b>not balanced</b>. Which adjustment will <b>balance</b> Scarlett's budget?"],
+    "options": [
+      "Spend only $45 on the sketching kit, and spend $10 more on the theme park outing.",
+      "Spend $25 less on the theme park outing, and earn $10 less at the garage sale.",
+      "Spend only $50 on the sketching kit, and earn an extra $15 from tutoring.",
+      "Donate $15 less to bushfire relief, and spend $15 more on her sister's gift."
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/40.png"
+  },
+  {
+    "questionNo": 23,
+    "question": ["Kai receives a <b>weekly allowance</b> of <b>$26</b>. He spends <b>$5</b> each week on bus tickets. He splits the rest of his allowance into <b>equal amounts</b> for <b>savings</b>, <b>charity</b>, and <b>board games</b>. How much money does Kai <b>save</b> each week?"],
+    "options": ["$6", "$7", "$8", "$21"],
+    "answer": 1,
+    "image": "./assests/images/question/41.png"
+  },
+  {
+    "questionNo": 24,
+    "question": ["<img  src = './assests/images/question/42.png' width = '40%' ><br>Willow receives a <b>weekly allowance</b> of <b>$38</b>. She spends <b>$6</b> each week on school lunches. She splits the rest of her allowance into <b>equal amounts</b> for <b>savings</b>, <b>books</b>, <b>art supplies</b>, and <b>charity</b>. Each week, Willow puts <b>$______</b> into savings."],
+    "input": [""],
+    "answer": ["8"]
+  },
+  {
+    "questionNo": 25,
+    "question": ["Hazel made <b>one calculation mistake</b> in her <b>Available Funds</b> column. On which <b>date</b> did she make the mistake, and what should her <b>correct Available Funds</b> be on that date?"],
+    "options": [
+      "4 July; correct Available Funds should be $152.50.",
+      "9 July; correct Available Funds should be $97.50.",
+      "15 July; correct Available Funds should be $144.00.",
+      "15 July; correct Available Funds should be $143.50."
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/43.png"
+  },
+  {
+    "questionNo": 26,
+    "question": ["Finn made <b>one calculation mistake</b> in his <b>Available Funds</b> column. On which <b>date</b> did he make the mistake, and what should his <b>correct Available Funds</b> be on that date?"],
+    "options": [
+      "3 September; correct Available Funds should be $194.50.",
+      "10 September; correct Available Funds should be $148.50.",
+      "18 September; correct Available Funds should be $219.25.",
+      "18 September; correct Available Funds should be $257.75."
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/44.png"
+  },
+  {
+    "questionNo": 27,
+    "question": ["Mila saves all the money <b>left over</b> from her <b>weekly budget</b> each week. How many weeks will it take Mila to save enough money to buy the <b>$180</b> scooter?"],
+    "options": ["7 weeks", "8 weeks", "9 weeks", "10 weeks"],
+    "answer": 2,
+    "image": "./assests/images/question/45.png"
+  },
+  {
+    "questionNo": 28,
+    "question": ["<img src = './assests/images/question/46.png' width = '40%' ><br>Eli already has <b>$42</b> in his savings account and adds all his <b>leftover weekly budget</b> money each week. It will take Eli <b>______ weeks</b> to reach his <b>$210</b> goal."],
+    "input": [""],
+    "answer": ["7"]
+  }
+
+
+
+      ]
+    }
+  ]
+}
